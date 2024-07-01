@@ -14,7 +14,9 @@ de uma conta ja cadastrada:
 
 Mudei as informações que eu precisava mudar, e então cliquei em 'Atualizar':
 
+![image](https://github.com/tavaresgu/Controle-Financeiro/assets/161664851/67fa9825-e368-494b-a72e-7769cf8d38da)
 
+E então cliquei em 'Excluir' para deletar uma conta que eu queria eliminar do meu banco de dados:
 
 ![image](https://github.com/tavaresgu/Controle-Financeiro/assets/161664851/7c76f802-ea2c-40f3-a431-677541b82212)
 
