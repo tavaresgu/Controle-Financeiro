@@ -7,8 +7,11 @@ e nenhuma alteração para a conta que foi paga no mesmo dia do vencimento:
 
 ![image](https://github.com/tavaresgu/Controle-Financeiro/assets/161664851/6229e35e-d571-4115-ae73-3ed9cff9374e)
 
+Cliquei em Cancelar Pagamento (voltando as opções anteriores) e cliquei em 'editar', para poder editar as informações
+de uma conta ja cadastrada:
 
 ![image](https://github.com/tavaresgu/Controle-Financeiro/assets/161664851/68780e7a-b86a-433d-a7d9-632179b30da2)
+
 ![image](https://github.com/tavaresgu/Controle-Financeiro/assets/161664851/7c76f802-ea2c-40f3-a431-677541b82212)
 
 
