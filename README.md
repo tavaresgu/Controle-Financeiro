@@ -12,6 +12,10 @@ de uma conta ja cadastrada:
 
 ![image](https://github.com/tavaresgu/Controle-Financeiro/assets/161664851/68780e7a-b86a-433d-a7d9-632179b30da2)
 
+Mudei as informações que eu precisava mudar, e então cliquei em 'Atualizar':
+
+
+
 ![image](https://github.com/tavaresgu/Controle-Financeiro/assets/161664851/7c76f802-ea2c-40f3-a431-677541b82212)
 
 
